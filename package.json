@@ -1,0 +1,9 @@
+{
+  "name": "aquapure-homepage",
+  "version": "1.0.0",
+  "description": "AquaPure Systems — Water Sewage Treatment Plant Homepage",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["water", "sewage", "treatment", "homepage"]
+}
